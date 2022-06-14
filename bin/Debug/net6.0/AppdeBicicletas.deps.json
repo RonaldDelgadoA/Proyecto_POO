@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AppdeBicicletas/1.0.0": {
+        "runtime": {
+          "AppdeBicicletas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppdeBicicletas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.csproj.AssemblyReference.cache
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.AssemblyInfoInputs.cache
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.AssemblyInfo.cs
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.csproj.CoreCompileInputs.cache
+C:\VisualSetudio2022\AppdeBicicletas\bin\Debug\net6.0\AppdeBicicletas.exe
+C:\VisualSetudio2022\AppdeBicicletas\bin\Debug\net6.0\AppdeBicicletas.deps.json
+C:\VisualSetudio2022\AppdeBicicletas\bin\Debug\net6.0\AppdeBicicletas.runtimeconfig.json
+C:\VisualSetudio2022\AppdeBicicletas\bin\Debug\net6.0\AppdeBicicletas.dll
+C:\VisualSetudio2022\AppdeBicicletas\bin\Debug\net6.0\AppdeBicicletas.pdb
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.dll
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\refint\AppdeBicicletas.dll
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.pdb
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\AppdeBicicletas.genruntimeconfig.cache
+C:\VisualSetudio2022\AppdeBicicletas\obj\Debug\net6.0\ref\AppdeBicicletas.dll
