@@ -108,6 +108,8 @@ namespace AppdeBicicletas
                     }
                 }else{
                     Console.WriteLine("Error ........ Contraseña Mal Diguitada");
+                    Thread.Sleep(time);
+                    Console.Clear();
                 }
             
 

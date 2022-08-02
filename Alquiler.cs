@@ -107,6 +107,29 @@ namespace AppdeBicicletas
 
             string C;
 
+            string OPI = "";
+
+            //do{
+            Console.WriteLine("Deceas agregar algun seguro a la Bicicleta: (Si o No)");
+            Console.Write("---> ");
+            OPI = Console.ReadLine();
+            Console.WriteLine("--------------------------------");
+
+            if (OPI == "SI" || OPI == "Si" || OPI == "si" || OPI == "sI")
+            {
+                var Segurity = new BicicletaBasica();
+                Console.Write(Segurity.Adicion());
+                var Segurity1 = new Seguros(Segurity);
+                Console.Write(Segurity1.Adicion());
+                Console.WriteLine("");
+            }
+            else{
+            Console.WriteLine("Seguro no agregado :) ");
+            }
+
+            //} while (OPI == "SI" || OPI == "Si");
+            
+
             do
             {
                 switch (Opci)
@@ -266,6 +289,8 @@ namespace AppdeBicicletas
         }
 
         private String ALTO = "";
+
+        public string Seguro = "";
 
         public void Alquilar()
         {
